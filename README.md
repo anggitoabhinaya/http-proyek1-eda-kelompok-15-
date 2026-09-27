@@ -32,6 +32,6 @@ cd http-proyek1-eda-kelompok-15-
 conda install pandas matplotlib
 5. Jalankan Jupyter Notebook:
   jupyter notebook
-6. Di jendela browser yang terbuka, klik file `statprob_project_KELOMPOK15.ipynb`
+6. Di jendela browser yang terbuka, klik file `eda_KELOMPOK_15.ipynb`
 7. Jalankan seluruh sel secara berurutan dari atas (`Kernel → Restart & Run All`)
 8. Pastikan file dataset (`Metro_Interstate_Traffic_Volume.csv`) berada di dalam folder `data/`, sejajar dengan notebook
